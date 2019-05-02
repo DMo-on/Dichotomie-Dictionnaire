@@ -1,0 +1,10 @@
+aimer     :ressentir un fort sentiment d'attirance pour quelqu'un ou quelque chose.
+arbre     :vegetal dont la tige est garni de feuilles.
+ballon    :objet spherique.
+chine     :pays d'Asie.
+clavier   :ensemble de touche d'une machine a ecrire.
+jaune     :designe une couleur du spectre situee entre le vert et l'orange.
+livre     :ensemble de pages reliees entre elles destinees a etre lues.
+nuit      :periode durant laquelle le soleil est sous notre horizon.
+singe     :mammifere.
+table     :meuble compose d'un plateau pose sur un ou plusieurs pieds.
